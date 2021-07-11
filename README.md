@@ -17,7 +17,7 @@
 
 Ты можешь делать все, что хочешь. Виртуальная машина - это твой мир
 
-![1](https://github.com/hashlyschool/img_readme/Born2BeRoot/blob/main/B2B_1.png)
+![1](https://github.com/hashlyschool/Born2BeRoot/blob/main/img_readme/B2B_1.png)
 
 # Глава 2 #
 
@@ -48,4 +48,4 @@
 
 Вы должны создать как минимум 2 зашифрованных раздела с помощью LVM. Ниже приведен пример ожидаемого разбиения:
 
-![2](https://github.com/hashlyschool/img_readme/Born2BeRoot/blob/main/B2B_2.png)
+![2](https://github.com/hashlyschool/Born2BeRoot/blob/main/img_readme/B2B_2.png)
