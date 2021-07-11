@@ -17,6 +17,8 @@
 
 Ты можешь делать все, что хочешь. Виртуальная машина - это твой мир
 
+![](https://drive.google.com/file/d/196c3l3g5nATcx3yKwrwzvvHq8jCnoC_x/view?usp=sharing)
+
 # Глава 2 #
 
 ## Вступление ##
