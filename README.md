@@ -17,7 +17,7 @@
 
 Ты можешь делать все, что хочешь. Виртуальная машина - это твой мир
 
-![a](google-drive://ilya12141998tulun@gmail.com/1rbtZigAfHRxZ6yi59LbCC4oWeN4ulgbs)
+![a](https://github.com/hashlyschool/Born2BeRoot/blob/main/B2B_1.png)
 
 # Глава 2 #
 
