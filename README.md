@@ -17,7 +17,7 @@
 
 Ты можешь делать все, что хочешь. Виртуальная машина - это твой мир
 
-![a](https://drive.google.com/file/d/196c3l3g5nATcx3yKwrwzvvHq8jCnoC_x/view?usp=sharing)
+![a](google-drive://ilya12141998tulun@gmail.com/1rbtZigAfHRxZ6yi59LbCC4oWeN4ulgbs)
 
 # Глава 2 #
 
